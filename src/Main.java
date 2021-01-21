@@ -4,7 +4,7 @@ public class Main {
             System.out.println(Circle.area(radius));
         }
     }
-
+//this is circle class
     class Circle{
         public static float area(float radius){
             return 3.141f * radius * radius;
